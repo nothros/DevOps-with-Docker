@@ -1,0 +1,4 @@
+:~$ docker ps -a
+9379ee8a9c05   nginx                      "/docker-entrypoint.…"   About a minute ago   Exited (0) 19 seconds ago             relaxed_beaver
+b00c7ef95bca   nginx                      "/docker-entrypoint.…"   2 minutes ago        Up 2 minutes                80/tcp    admiring_vaughan
+714f03be4621   jupyter/pyspark-notebook   "tini -g -- start-no…"   14 minutes ago       Exited (0) 11 seconds ago             stoic_bohr

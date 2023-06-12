@@ -1,0 +1,6 @@
+:~$ docker run -d -it --name testingdocks devopsdockeruh/simple-web-service:alpine
+
+:~$ docker exec -it testingdocks tail -f ./text.log
+
+Secret message is the same. 
+Alpine is lighter than Ubuntu.
